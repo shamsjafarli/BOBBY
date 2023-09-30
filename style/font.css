@@ -1,0 +1,23 @@
+@font-face {
+     
+    font-family: MyROBOTO;
+   
+    src: url ("../fonts/Roboto/Roboto-Bold.ttf"); 
+     }
+
+
+    @font-face {
+     
+        font-family: MyROBOTO;
+       
+        src: url ("../fonts/Roboto/Roboto-Medium.ttf"); 
+
+          }
+
+
+        @font-face {
+     
+            font-family: MyROBOTO;
+           
+            src: url ("../fonts/Roboto/Roboto-Regular.ttf"); 
+             }
